@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "srdiPiL074c2tlRvT+bQzOe8f3f4h9tEmPss381oC140yzuIbDG/YMd4LfirmAE0VvV0GQ9cU8tJNtiE2OxvgQ==",
+  "dgSpecHash": "K0NhXxb+1sy3f0d1a2jLM8tprNiXcj5MypCbIN2WnurJzk+nwaJWm960gxuz6D1oRn2Kv992Sv8I+Q4sx+jGCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Downloads\\BaiTapLon-master\\BaiTapLon-master\\MVC\\MVC.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Videos\\baidiemB\\PTPMQLTV\\MVC\\MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

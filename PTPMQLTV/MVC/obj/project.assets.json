@@ -12062,11 +12062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Downloads\\BaiTapLon-master\\BaiTapLon-master\\MVC\\MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Videos\\baidiemB\\PTPMQLTV\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "C:\\Users\\Dell\\Downloads\\BaiTapLon-master\\BaiTapLon-master\\MVC\\MVC.csproj",
+      "projectPath": "C:\\Users\\Dell\\Videos\\baidiemB\\PTPMQLTV\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Downloads\\BaiTapLon-master\\BaiTapLon-master\\MVC\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Videos\\baidiemB\\PTPMQLTV\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
